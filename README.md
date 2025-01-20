@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 💬 Ask me about **web developpement**
+- 💬 Ask me about **Data and web developpement**
 
-- 📫 How to reach me **eloualidsoumaya@gmail.com**
+- 📫 How to reach me **soumayaeloualid20@gmail.com**
 
 - 📫 How to reach my PORTFOLIO **https://soumayaeloualid.github.io**
   
